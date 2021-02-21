@@ -1,0 +1,79 @@
+{
+    "columns": [
+        "key",
+        "value",
+        "unit"
+    ],
+    "items": [
+        {
+            "key": "Nozzle",
+            "value": "",
+            "unit": "",
+            "children": [
+                {
+                    "key": "Diameter",
+                    "value": "0.4",
+                    "unit": "mm"
+                }
+            ]
+        },
+        {
+            "key": "Axis",
+            "value": "",
+            "unit": "",
+            "children": [
+                {
+                    "key": "X",
+                    "unit": "",
+                    "value": "",
+                    "children": [
+                        {
+                            "key": "End minus",
+                            "value": "0",
+                            "unit": "mm"
+                        },
+                        {
+                            "key": "End plus",
+                            "value": "200",
+                            "unit": "mm"
+                        }
+                    ]
+                },
+                {
+                    "key": "Y",
+                    "value": "",
+                    "unit": "",
+                    "children": [
+                        {
+                            "key": "End minus",
+                            "unit": "mm",
+                            "value": "0"
+                        },
+                        {
+                            "key": "End plus",
+                            "value": "200",
+                            "unit": "mm"
+                        }
+                    ]
+                },
+                {
+                    "key": "Z",
+                    "unit": "",
+                    "value": "",
+                    "children": [
+                        {
+                            "key": "End minus",
+                            "unit": "mm",
+                            "value": "0"
+                        },
+                        {
+                            "key": "End plus",
+                            "value": "200",
+                            "unit": "mm"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
